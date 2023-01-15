@@ -20,8 +20,8 @@ author: Trevor Kwan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Projects:
+  My Story: "mystory"
+  My Projects:
     - Penalized Casebase: "https://github.com/trevorkwan/Penalized-Casebase-in-Survival-Analysis-MSc-Project"
     - Riversol Project: "https://github.com/trevorkwan/Riversol-Data-Science-MDS-Capstone-Project"
     - Generalized Linear Modeling: "https://github.com/trevorkwan/Generalized-Linear-Modeling-Project-STAT-538A/blob/main/final_report.ipynb"
