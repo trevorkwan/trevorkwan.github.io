@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Airbnb Price Predictions
-subtitle: Each post also has a subtitle
+subtitle: MDS Course Project
 gh-repo: trevorkwan
 tags: [linear regression, feature selection]
 comments: false
