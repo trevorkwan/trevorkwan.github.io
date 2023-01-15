@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Penalized Casebase in Survival Analysis
+title: Penalized casebase in survival analysis. (A simulation study)
 subtitle: MSc Final Project
 gh-repo: trevorkwan
 tags: [survival analysis, variable selection]
