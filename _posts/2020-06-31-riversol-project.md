@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classification Modeling for Riversol
+title: Predicting sample-taker conversion using classification modeling.
 subtitle: MDS Final Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/riversol.png
