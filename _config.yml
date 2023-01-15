@@ -24,6 +24,7 @@ navbar-links:
   Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - GLM: "https://github.com/trevorkwan/Generalized-Linear-Modeling-Project-STAT-538A/blob/main/final_report.ipynb"
   Author's home: "https://deanattali.com"
 
 ################
