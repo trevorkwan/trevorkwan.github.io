@@ -4,7 +4,7 @@ title: Classification Modeling for Riversol
 subtitle: MDS Final Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/riversol.png
-tags: [test]
+tags: [supervised learning, business]
 comments: false
 ---
 
