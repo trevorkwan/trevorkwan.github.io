@@ -3,6 +3,7 @@ layout: post
 title: Stock trading dashboard using the DEMA strategy.
 subtitle: MSc Course Project
 gh-repo: trevorkwan
+thumbnail-img: /assets/img/stock_trading.png
 tags: [DEMA, faang]
 comments: false
 ---
