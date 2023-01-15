@@ -28,7 +28,6 @@ navbar-links:
     - Mixed-Effects Modeling: "https://github.com/trevorkwan/Mixed-Effects-Modeling-Statistical-Consulting-Project-STAT-550"
     - Stock Trading Dashboard: "https://github.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545"
     - Airbnb Price Prediction: "https://github.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -54,9 +53,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  email: "someone@example.com"
-  linkedin: daattali
-  github: daattali
+  email: "tktrevorkwan@gmail.com"
+  linkedin: trevor-kwan-a1b9271a8
+  github: trevorkwan
 # facebook: deanattali
 #  twitter: daattali
 #  patreon: DeanAttali
