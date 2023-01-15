@@ -22,9 +22,12 @@ author: Trevor Kwan
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - GLM: "https://github.com/trevorkwan/Generalized-Linear-Modeling-Project-STAT-538A/blob/main/final_report.ipynb"
+    - Penalized Casebase: "https://github.com/trevorkwan/Penalized-Casebase-in-Survival-Analysis-MSc-Project"
+    - Riversol Project: "https://github.com/trevorkwan/Riversol-Data-Science-MDS-Capstone-Project"
+    - Generalized Linear Modeling: "https://github.com/trevorkwan/Generalized-Linear-Modeling-Project-STAT-538A/blob/main/final_report.ipynb"
+    - Mixed-Effects Modeling: "https://github.com/trevorkwan/Mixed-Effects-Modeling-Statistical-Consulting-Project-STAT-550"
+    - Stock Trading Dashboard: "https://github.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545"
+    - Airbnb Price Prediction: "https://github.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522"
   Author's home: "https://deanattali.com"
 
 ################
