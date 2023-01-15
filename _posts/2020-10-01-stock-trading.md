@@ -23,6 +23,6 @@ When choosing DEMA input values, the short term DEMA value must always be less t
 ## Example
 Shown below is what the dashboard would look like when you run the source code:
 
-![alt text](https://raw.githubusercontent.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545/main/src/dema_faang_pic.png)
+![alt text](https://raw.githubusercontent.com/trevorkwan/trevorkwan.github.io/master/assets/img/dema_faang_pic.png)
 
 My work can be found [here](https://github.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545).
