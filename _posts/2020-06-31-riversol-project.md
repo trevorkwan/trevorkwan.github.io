@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting sample-taker conversion using classification modeling.
+title: Classification modeling to predict sample-taker conversion.
 subtitle: MDS Final Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/riversol.png
