@@ -29,7 +29,6 @@ navbar-links:
     - Stock Trading Dashboard: "https://github.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545"
     - Airbnb Price Prediction: "https://github.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522"
   Author's home: "https://deanattali.com"
-  Blog: "trevorkwan.github.io/blog"
 
 ################
 # --- Logo --- #
@@ -294,6 +293,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
-## Additional Settings
-paginate_path: "/blog/page:num/"
