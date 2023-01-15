@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Penalized Casebase in Survival Analysis
-subtitle: Each post also has a subtitle
+subtitle: MSc Final Project
 gh-repo: trevorkwan
 tags: [survival analysis, variable selection]
 comments: false
