@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generalized linear modeling to predict income and identify factors that influence income. 
+title: Generalized linear modeling to identify factors that influence income. 
 subtitle: MSc Course Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/adult_income.png
