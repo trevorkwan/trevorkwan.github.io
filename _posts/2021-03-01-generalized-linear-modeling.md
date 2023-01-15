@@ -9,7 +9,7 @@ comments: false
 
 Identifying the factors that influence people's income is crucial for a fair society. The "Adult Data Set"[5] is such a dataset that records people's income and related variables in the US. It was collected by Barry Becker from the 1994 Census database. It allows us to predict whether income exceeds \$50K/year based on adult census data. With this dataset, we explore how the recorded variables influence people's income.
 
-In this project, by utilizing the learned generalized linear models (GLM), we want to mainly focus on the following two tasks:
+In this project, by utilizing generalized linear models (GLM), we want to mainly focus on the following two tasks:
 * Build a GLM prediction model which will perform well in the dataset;
 * Identify some key variables (or variable combinations) which have a large influence on one's income.
 
