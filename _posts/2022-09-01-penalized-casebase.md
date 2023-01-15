@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Penalized casebase in survival analysis. (A simulation study)
+title: Penalized casebase in survival analysis. (A simulation study.)
 subtitle: MSc Final Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/biostat.png
