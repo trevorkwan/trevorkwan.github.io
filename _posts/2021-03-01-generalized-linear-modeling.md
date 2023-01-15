@@ -3,7 +3,7 @@ layout: post
 title: Generalized linear modeling to predict income and identify factors that influence income. 
 subtitle: MSc Course Project
 gh-repo: trevorkwan
-tags: [test]
+tags: [GLM, logistic regression]
 comments: false
 ---
 
