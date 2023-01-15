@@ -3,7 +3,7 @@ layout: post
 title: Penalized Casebase in Survival Analysis
 subtitle: Each post also has a subtitle
 gh-repo: trevorkwan
-tags: [survival analysis] []
+tags: [survival analysis, variable selection]
 comments: false
 ---
 
