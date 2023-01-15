@@ -3,6 +3,7 @@ layout: post
 title: Mixed-effects modeling in patients with mental distress.
 subtitle: MSc Course Project
 gh-repo: trevorkwan
+thumbnail-img: /assets/img/mental_health.png
 tags: [mixed-effects, clinical]
 comments: false
 ---
