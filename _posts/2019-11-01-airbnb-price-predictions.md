@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Airbnb Price Predictions
+title: Predicting the optimal market price for airbnb hosts.
 subtitle: MDS Course Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/airbnb.png
