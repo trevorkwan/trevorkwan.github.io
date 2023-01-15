@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mixed-effects modeling in patients with mental distress.
-subtitle: MSc STAT 550 Project
+subtitle: MSc Course Project
 gh-repo: trevorkwan
 tags: [test]
 comments: false
