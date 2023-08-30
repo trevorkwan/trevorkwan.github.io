@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NLI BERT text classification on the MedNLI dataset.
+title: Natural language inference text classification on MedNLI data.
 subtitle: UBC DSI Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/med_nli.png

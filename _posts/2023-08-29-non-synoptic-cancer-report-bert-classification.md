@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Non-synoptic cancer report classification using BERT NLP Models.
+title: Classifying non-synoptic breast cancer pathology reports with BERT NLP.
 subtitle: UBC DSI Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/non_synoptic.png
