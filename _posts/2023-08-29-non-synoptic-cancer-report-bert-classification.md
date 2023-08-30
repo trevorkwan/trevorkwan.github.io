@@ -10,7 +10,7 @@ comments: false
 
 In this project, I develop a Machine Learning pipeline that automates free-text cancer report classification with near-human-level accuracy at 90% using BERT NLP for question answering and text classification. 
 
-In step one, I train BERT question answering models to extract relevant text from unstructured non-synoptic reports, evaluate these models on their predictions, and infer their performance with metrics f1-score, Precision, and Recall. 
+In step one, I train BERT question answering models to extract relevant text from unstructured non-synoptic reports, evaluate these models on their predictions, and infer their performance using f1-score, Precision, and Recall. 
 
 In step two, I train BERT text classification models to take extracted predictions from question answering models and classify them into cancer fields of interest. Classifiers were evaluated on accuracy within and across fields of interest.
 
