@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classifying non-synoptic breast cancer pathology reports using BERT NLP.
+title: Classifying non-synoptic breast cancer pathology reports with BERT NLP.
 subtitle: PHSA Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/non_synoptic.png
