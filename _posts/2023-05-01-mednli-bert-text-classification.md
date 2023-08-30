@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Natural language inference text classification on MedNLI data.
+title: Classifying MedNLI data with natural language inference.
 subtitle: UBC DSI Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/med_nli.png
