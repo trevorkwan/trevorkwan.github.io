@@ -22,12 +22,14 @@ author: Trevor Kwan
 navbar-links:
   My Story: "mystory"
   My Projects:
-    - Penalized Casebase: "https://github.com/trevorkwan/Penalized-Casebase-in-Survival-Analysis-MSc-Project"
-    - Riversol Project: "https://github.com/trevorkwan/Riversol-Data-Science-MDS-Capstone-Project"
-    - Generalized Linear Modeling: "https://github.com/trevorkwan/Generalized-Linear-Modeling-Project-STAT-538A/blob/main/final_report.ipynb"
-    - Mixed-Effects Modeling: "https://github.com/trevorkwan/Mixed-Effects-Modeling-Statistical-Consulting-Project-STAT-550"
-    - Stock Trading Dashboard: "https://github.com/trevorkwan/Stock-Trading-Strategy-Project-STAT-545"
-    - Airbnb Price Prediction: "https://github.com/trevorkwan/Airbnb-Price-Prediction-Project-DSCI-522"
+    - Breast Cancer Non-Synoptic: "https://www.trevorkwan.tech/2023-08-29-non-synoptic-cancer-report-bert-classification/"
+    - MedNLI Project: "https://www.trevorkwan.tech/2023-05-01-mednli-bert-text-classification/"
+    - Penalized Casebase: "https://www.trevorkwan.tech/2022-09-01-penalized-casebase/"
+    - Riversol Project: "https://www.trevorkwan.tech/2020-07-01-riversol-project/"
+    - Generalized Linear Modeling: "https://www.trevorkwan.tech/2021-03-01-generalized-linear-modeling/"
+    - Mixed-Effects Modeling: "https://www.trevorkwan.tech/2021-05-01-mixed-effects-modeling/"
+    - Stock Trading Dashboard: "https://www.trevorkwan.tech/2020-10-01-stock-trading/"
+    - Airbnb Price Prediction: "https://www.trevorkwan.tech/2019-11-01-airbnb-price-predictions/"
 
 ################
 # --- Logo --- #
