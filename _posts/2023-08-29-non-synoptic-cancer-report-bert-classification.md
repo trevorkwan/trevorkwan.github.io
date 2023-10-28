@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classifying non-synoptic breast cancer pathology reports with BERT NLP.
-subtitle: PHSA Project
+subtitle: UBC DSI Project
 gh-repo: trevorkwan
 thumbnail-img: /assets/img/non_synoptic.png
 tags: [question answering, text classification, BERT]
